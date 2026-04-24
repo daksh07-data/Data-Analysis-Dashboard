@@ -17,4 +17,5 @@ The Vrinda Store wants to create an annual sakes reporty for 2022. So that, of t
  -Create pivot tables into one dashboard and apply slicer to make dynmic.
 
  ## Dashboard
- 
+ <img width="1871" height="750" alt="Screenshot 2026-04-24 122843" src="https://github.com/user-attachments/assets/392a05ea-8e88-4ddf-9f2f-118fff4dd96f" />
+
